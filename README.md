@@ -12,7 +12,7 @@ For the fabricating NER data, check the `Data/Fabricating/` folder.
 
 For the assembly NER data, check the `Data/Assembly/` folder.
 
-For total data, check the 'Data/Assembly&Fabricating/' folder.
+For total data, check the `Data/Assembly&Fabricating/` folder.
 
 And, fourteen types of entities are annotated. Following table shows the entities statistics.
 
