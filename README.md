@@ -34,7 +34,7 @@ For the assembly NER data, check the `Data/Assembly/` folder.
 
 For total data, check the `Data/Assembly&Fabricating/` folder.
 
-Each folder contains 3 files, `NER`, `NER.data`, `NER.category`,  `NER.summary`, and also cantains 1 folder, CV.
+Each folder contains 3 files, `NER`, `NER.data`, `NER.category`,  `NER.summary`, and also cantains 1 folder which is `CV`.
 
 - NER: The entity list.
 - NER.data: The annotated sentences.
