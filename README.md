@@ -13,7 +13,7 @@ This corpus contains 709 fabricating WI sentences,  774 assembly WI sentences,  
 | PART | 1,704 | 169 | 1,873 |
 | PART_ID |  1,822 | 29 | 1,851 |
 | PART_NU | 1,007 | 160 | 1,167 |
-| PICTURE | 630 | 12 | 642 |
+| PICTURE_ID | 630 | 12 | 642 |
 | PICTURE_VI | 591 | 11 | 602 |
 | ATTRIBUTE | 357 | 1,117 | 1,474 |
 | ATTRIBUTE_VA | 371 | 1,343 | 1,714 |
@@ -22,7 +22,7 @@ This corpus contains 709 fabricating WI sentences,  774 assembly WI sentences,  
 | OPERATION | 541 | 1,193 | 1,734 |
 | ACCESSORY | 79 | 43 | 122 |
 | ACCESSORY_ID | 83 | 42 | 125 |
-| LOCATION | 104 | 487 | 591 |
+| PART_AR | 104 | 487 | 591 |
 | HOLE | 295 | 235 | 530 |
 | Total | 8,702  | 6,053  | 14,755 |
 
