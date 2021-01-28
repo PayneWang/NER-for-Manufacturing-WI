@@ -36,7 +36,7 @@ For total data, check the `Data/Assembly&Fabricating/` folder.
 
 Each folder contains 3 files, `NER`, `NER.data`, `NER.category`,  `NER.summary`, and also cantains 1 folder which is `CV`.
 
-- NER: The entity list.
-- NER.data: The annotated sentences.
-- NER.category: The entities statistics.
-- CV: The data for 10-fold cross validation .
+- `NER`: The entity list.
+- `NER.data`: The annotated sentences.
+- `NER.category`: The entities statistics.
+- `CV`: The data for 10-fold cross validation .
