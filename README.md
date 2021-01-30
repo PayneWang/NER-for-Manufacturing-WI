@@ -8,7 +8,7 @@ This repository contains a named entity recognition (NER) corpus for Chinese man
 ## Overview
 This corpus contains 709 fabricating WI sentences,  774 assembly WI sentences,  and total 427,656 characters.  Fourteen types of entities are annotated. Following table shows the entities statistics.
 
-| Entity Type | Assembly | Fabricating | Total | -- | Description |
+| Entity Type | Assembly | Fabricating | Total | Description |
 | -- | -- | -- | -- | -- |
 | PART | 1,704 | 169 | 1,873 | The name of the part to be assembled or fabricated (e.g., 面板/Panel, 螺钉/Screw). |
 | PART_ID |  1,822 | 29 | 1,851 | The identification number of the part to be assembled or fabricated (e.g., 201C407-777-7HI, NAS20426). |
